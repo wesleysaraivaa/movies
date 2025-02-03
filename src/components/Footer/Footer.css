@@ -2,8 +2,13 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background: #000;
+  background: #1a1a1a;
   color: white;
   text-align: center;
-  font-size: 0.625rem;
+  padding: 0.9375rem;
+  margin-top: auto;
+}
+
+.footer div p {
+  padding-top: 8px;
 }

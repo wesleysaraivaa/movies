@@ -1,0 +1,22 @@
+.movie-card {
+  background: #222;
+  padding: 1.25rem;
+  border-radius: 0.625rem;
+  color: #fff;
+  text-align: center;
+}
+
+.movie-card img {
+  width: 100%;
+  border-radius: 0.5rem;
+}
+
+.movie-card h1 {
+  font-size: 1.3125rem;
+  padding: 20px 0;
+}
+
+.movie-card p {
+  color: gainsboro;
+  font-size: 1rem;
+}

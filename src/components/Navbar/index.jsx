@@ -1,4 +1,4 @@
-import "./style.css";
+import "./Navbar.css";
 
 const Navbar = ({ texto }) => {
   return (
@@ -6,7 +6,7 @@ const Navbar = ({ texto }) => {
       <h1>{texto}</h1>
       <div>
         <a href="#"> Filmes </a>
-        <p>Novidades...</p>
+        <p>Series...</p>
       </div>
     </nav>
   );
